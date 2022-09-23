@@ -18,6 +18,8 @@ body{
    text-align: center;
    color: blanchedalmond;
    background-color: brown;
+   background-image: linear-gradient(to right, brown, salmon);
+
    }
 
 /*estilos del header */
@@ -26,6 +28,7 @@ body{
    text-align: right;
    color: blanchedalmond;
    background-color: brown;
+   
  }
 
 /*ESTILOS DEL INDEX*/
@@ -131,6 +134,7 @@ body{
    flex-direction: row;
    margin: 1rem;
    padding: 1rem;
+   background-image: linear-gradient(to right, brown, salmon);
 }
 
 
@@ -281,7 +285,8 @@ body{
    flex-direction: row;
    margin: 1rem;
    padding: 1rem;
-   
+   background-image: linear-gradient(to right, brown, salmon);
+
 }
 
 
@@ -442,7 +447,8 @@ body{
    flex-direction: row;
    margin: 1rem;
    padding: 1rem;
-   
+   background-image: linear-gradient(to right, brown, salmon);
+
 }
 
 
